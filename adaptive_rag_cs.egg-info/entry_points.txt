@@ -1,0 +1,2 @@
+[console_scripts]
+adaptive-rag-cli = app.cli:main
